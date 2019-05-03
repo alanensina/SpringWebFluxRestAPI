@@ -9,5 +9,4 @@ public class WebFluxRestApiApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(WebFluxRestApiApplication.class, args);
 	}
-
 }
